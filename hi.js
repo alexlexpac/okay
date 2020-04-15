@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+console.log("print of emit is not clear enough")
+=======
 
 
-console.log("Just walk away "); 
